@@ -10,11 +10,13 @@ Display content enclosed by the shortcode for registered users only.
 
 == Description ==
 
-https://github.com/miya0001/login-to-read-more
+Display content enclosed by the shortcode for registered users only.
 
 `[auth]This content will display for registered users only[/auth]`
 
-=== Arguments
+https://github.com/miya0001/login-to-read-more
+
+=== Arguments ===
 
 * class - Class name for css. default value is "btn btn-primary btn-large"
 * href - Link URL for button. default value is login url for your site
@@ -35,7 +37,7 @@ The following will change text.
 `Example: [auth text="Join"]
 Output: <a ...>Join</a>`
 
-=== Filter Hook
+=== Filter Hook ===
 
 * login_to_read_more_class - Change default class.
 * login_to_read_more_href - Change default url.
