@@ -17,7 +17,7 @@ https://github.com/miya0001/login-to-read-more
 === Arguments
 
 * class - Class name for css. default value is "btn btn-primary btn-large"
-* href - Link URL for button. default value is loghon url for your site
+* href - Link URL for button. default value is login url for your site
 * text - Button text. default value is "Login to read more"
 
 The following will add a class as argument.
