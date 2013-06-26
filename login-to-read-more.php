@@ -51,4 +51,3 @@ public function login_read_more($p, $content = null) {
 
 }
 
-
