@@ -4,7 +4,7 @@ Plugin Name: Login to read more
 Plugin URI: http://wpist.me/
 Description: Display content enclosed by the shortcode for registered users only.
 Author: Takayuki Miyauchi
-Version: 0.1.0
+Version: 0.2.0
 Author URI: http://wpist.me/
 */
 

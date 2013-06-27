@@ -4,7 +4,7 @@ Donate link: http://wpist.me/
 Tags: shortcode, login, member, register, post, page
 Requires at least: 3.5
 Tested up to: 3.5
-Stable tag: 0.1.0
+Stable tag: 0.2.0
 
 Display content enclosed by the shortcode for registered users only.
 
