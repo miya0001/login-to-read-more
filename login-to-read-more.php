@@ -40,11 +40,14 @@ public function login_read_more($p, $content = null) {
                 'Login to read more'
             ),
         ), $p));
-        return sprintf(
-            '<a class="%s" href="%s">%s</a>',
-            esc_attr($class),
-            esc_attr($href),
-            $text
+        return apply_filters(
+            'login_to_read_more_html',
+            sprintf(
+                '<a class="%s" href="%s">%s</a>',
+                esc_attr($class),
+                esc_attr($href),
+                $text
+            )
         );
     }
 }
